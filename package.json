@@ -85,7 +85,7 @@
     "commander": "^14.0.2",
     "smol-toml": "^1.7.0",
     "yaml": "^2.8.1",
-    "zod": "^4.1.13"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.5.6",
